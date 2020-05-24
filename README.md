@@ -1,2 +1,2 @@
-# Wind farm layout optimization, Wind turbine, Adaptive genetic algorithm, Neural networks surrogate model, Monte-Carlo simulation
+# Wind farm macro-siting optimization with insightful bi-criteria identification and relocation mechanism in genetic algorithm
 Will appear soon...
